@@ -40,7 +40,7 @@ DEFAULT_APPS = [
     'django.contrib.staticfiles',
 ]
 
-CUSTOM_APPS=['excel',
+CUSTOM_APPS=[ 'grade'
 ]
 
 THIRD_PARTY_APPS=['crispy_forms',]
